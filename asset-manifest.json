@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-list-app/static/css/main.d4bde439.css",
+    "main.js": "/todo-list-app/static/js/main.0c253051.js",
+    "static/js/787.b6086cd3.chunk.js": "/todo-list-app/static/js/787.b6086cd3.chunk.js",
+    "static/media/moon-icon.png": "/todo-list-app/static/media/moon-icon.941dd38a5e0254e65a6c.png",
+    "index.html": "/todo-list-app/index.html",
+    "main.d4bde439.css.map": "/todo-list-app/static/css/main.d4bde439.css.map",
+    "main.0c253051.js.map": "/todo-list-app/static/js/main.0c253051.js.map",
+    "787.b6086cd3.chunk.js.map": "/todo-list-app/static/js/787.b6086cd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4bde439.css",
+    "static/js/main.0c253051.js"
+  ]
+}
